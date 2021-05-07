@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Java, Python, & HTML
 - 💞️ I’m not looking to collaborate on 
 - 📫 How to reach me:
-Twitter: @Pifase_does_MC,
-Discord: @pifase#0001
+On Twitter: @Pifase_does_MC,
 
 <!---
 pifase/pifase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
