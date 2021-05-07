@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, Python, & HTML
 - 💞️ I’m not looking to collaborate on 
 - 📫 How to reach me:
-Twitter: @Pifase_does_MC
+Twitter: @Pifase_does_MC,
 Discord: @pifase#0001
 
 <!---
